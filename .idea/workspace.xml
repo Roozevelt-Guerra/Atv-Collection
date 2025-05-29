@@ -1,32 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec6f05b-7f22-4649-8109-3e9c8960335c" name="Changes" comment="" />
+    <list default="true" id="3ec6f05b-7f22-4649-8109-3e9c8960335c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2xeeyiPn3eVSKt2UP886FoCarzN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Q1.executor": "Run",
+    "Application.Q10.executor": "Run",
+    "Application.Q11.executor": "Run",
+    "Application.Q12.executor": "Run",
+    "Application.Q13.executor": "Run",
+    "Application.Q14.executor": "Run",
+    "Application.Q15.executor": "Run",
+    "Application.Q16.executor": "Run",
+    "Application.Q17.executor": "Run",
+    "Application.Q18.executor": "Run",
+    "Application.Q19.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q20.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.Q6.executor": "Run",
+    "Application.Q7.executor": "Run",
+    "Application.Q8.executor": "Run",
+    "Application.Q9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/rooze/Mini curso Java/atividade-Collection/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Q20">
+    <configuration name="Q16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q16" />
+      <module name="atividade-Collection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q17" />
+      <module name="atividade-Collection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q18" />
+      <module name="atividade-Collection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q19" />
+      <module name="atividade-Collection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q20" />
+      <module name="atividade-Collection" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q20" />
+        <item itemvalue="Application.Q19" />
+        <item itemvalue="Application.Q18" />
+        <item itemvalue="Application.Q17" />
+        <item itemvalue="Application.Q16" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,16 +138,5 @@
       <updated>1748303224256</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

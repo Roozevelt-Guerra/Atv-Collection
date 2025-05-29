@@ -1,2 +1,19 @@
-package PACKAGE_NAME;public class Q2 {
+import java.util.ArrayList;
+
+public class Q2 {
+    public static void main(String[] args) {
+
+        ArrayList<Integer> numerosInteiros = new ArrayList<Integer>();
+        numerosInteiros.add(10);
+        numerosInteiros.add(20);
+        numerosInteiros.add(30);
+        numerosInteiros.add(40);
+        numerosInteiros.add(50);
+
+        for (int i = 0; i < numerosInteiros.size(); i++) {
+            numerosInteiros.remove(2);
+            break;
+        }
+        System.out.println(numerosInteiros);
+    }
 }
